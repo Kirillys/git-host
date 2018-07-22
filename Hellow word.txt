@@ -1,3 +1,0 @@
-print("hellow word");
-print("hellow cuvaak");
-print("hellow dog");
