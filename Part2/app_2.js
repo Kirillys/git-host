@@ -1,5 +1,6 @@
 var main=function(){
   "use strict";
-  window.alert("hellow, Word!");
-};
-$(document).ready(main);
+  $(".comment-input button").on("click", function(event){
+    console.log("Hellow, World!");});
+  };
+  $(document).ready(main);
